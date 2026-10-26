@@ -1,0 +1,6 @@
+{
+  "name": "ScamLens - AI Fraud & Scam Detection",
+  "description": "Analyze suspicious websites, messages, emails, and text with ScamLens to detect online fraud and phishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
